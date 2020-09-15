@@ -1,0 +1,13 @@
+C:\Users\consc\Desktop\Source\Visual Studio Projects\HowToUseDelegatesExample\HowToUseDelegatesExample\bin\Debug\netcoreapp3.1\HowToUseDelegatesExample.exe
+C:\Users\consc\Desktop\Source\Visual Studio Projects\HowToUseDelegatesExample\HowToUseDelegatesExample\bin\Debug\netcoreapp3.1\HowToUseDelegatesExample.deps.json
+C:\Users\consc\Desktop\Source\Visual Studio Projects\HowToUseDelegatesExample\HowToUseDelegatesExample\bin\Debug\netcoreapp3.1\HowToUseDelegatesExample.runtimeconfig.json
+C:\Users\consc\Desktop\Source\Visual Studio Projects\HowToUseDelegatesExample\HowToUseDelegatesExample\bin\Debug\netcoreapp3.1\HowToUseDelegatesExample.runtimeconfig.dev.json
+C:\Users\consc\Desktop\Source\Visual Studio Projects\HowToUseDelegatesExample\HowToUseDelegatesExample\bin\Debug\netcoreapp3.1\HowToUseDelegatesExample.dll
+C:\Users\consc\Desktop\Source\Visual Studio Projects\HowToUseDelegatesExample\HowToUseDelegatesExample\bin\Debug\netcoreapp3.1\HowToUseDelegatesExample.pdb
+C:\Users\consc\Desktop\Source\Visual Studio Projects\HowToUseDelegatesExample\HowToUseDelegatesExample\obj\Debug\netcoreapp3.1\HowToUseDelegatesExample.csprojAssemblyReference.cache
+C:\Users\consc\Desktop\Source\Visual Studio Projects\HowToUseDelegatesExample\HowToUseDelegatesExample\obj\Debug\netcoreapp3.1\HowToUseDelegatesExample.AssemblyInfoInputs.cache
+C:\Users\consc\Desktop\Source\Visual Studio Projects\HowToUseDelegatesExample\HowToUseDelegatesExample\obj\Debug\netcoreapp3.1\HowToUseDelegatesExample.AssemblyInfo.cs
+C:\Users\consc\Desktop\Source\Visual Studio Projects\HowToUseDelegatesExample\HowToUseDelegatesExample\obj\Debug\netcoreapp3.1\HowToUseDelegatesExample.csproj.CoreCompileInputs.cache
+C:\Users\consc\Desktop\Source\Visual Studio Projects\HowToUseDelegatesExample\HowToUseDelegatesExample\obj\Debug\netcoreapp3.1\HowToUseDelegatesExample.dll
+C:\Users\consc\Desktop\Source\Visual Studio Projects\HowToUseDelegatesExample\HowToUseDelegatesExample\obj\Debug\netcoreapp3.1\HowToUseDelegatesExample.pdb
+C:\Users\consc\Desktop\Source\Visual Studio Projects\HowToUseDelegatesExample\HowToUseDelegatesExample\obj\Debug\netcoreapp3.1\HowToUseDelegatesExample.genruntimeconfig.cache
